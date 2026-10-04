@@ -39,7 +39,6 @@ apis:
   - name: Callook.info
     description: "United States ham radio callsigns"
     humanURL: https://callook.info
-    baseURL: https://callook.info
     tags:
       - Open Data
     properties:
